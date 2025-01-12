@@ -2,8 +2,8 @@
   <img src="https://github.com/D0mestos0/D0mestos0/blob/main/assets/mushu1-mulan.gif" alt="My Profile Picture" width="300" height=auto>
 </div>
 
-About me 🐞
-## I`m a human who loves cheese
+## About me 🐞
+ I`m a human who loves cheese (っ ᐛ )っ 🧀
 
 ### Languages and Tools 🌹
 ![Python](https://img.shields.io/badge/Python_like-FFB6C1?style=for-the-badge&logo=python&logoColor=blue)
