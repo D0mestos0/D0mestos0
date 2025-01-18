@@ -2,7 +2,7 @@
   <img src="https://github.com/D0mestos0/D0mestos0/blob/main/assets/mushu1-mulan.gif" alt="My Profile Picture" width="300" height=auto>
 </div>
 
-## About me 🐞
+## Обо мне 🐞
 ### Привет! 👋
 
 Я начинающий QA-инженер с научным бэкграундом в области биологии. Моя цель — обеспечить качество программного обеспечения, создавая надежные и полезные продукты.
@@ -13,9 +13,9 @@
 
 💡 Открыта для стажировок и работы, готова активно учиться и вносить свой вклад в проекты.  
 
-📫 Связаться со мной: [mvf-2014@mail.ru]
+📫 Связаться со мной: mvf-2014@mail.ru
 
-## Languages and Tools 🌹
+## Языки и инструменты 🌹
 ![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML](https://img.shields.io/badge/HTML-FFB6C1?style=for-the-badge&logo=html5&logoColor=FF4500)
 ![CSS](https://img.shields.io/badge/CSS-FFB6C1?style=for-the-badge&logo=css&logoColor=black)
