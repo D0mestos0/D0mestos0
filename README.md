@@ -3,13 +3,14 @@
 </div>
 
 ## About me 🐞
- I`m a human who loves cheese (っ ᐛ )っ 🧀
+
 
 ## Languages and Tools 🌹
 ![Python](https://img.shields.io/badge/Python_like-FFB6C1?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML](https://img.shields.io/badge/HTML_like-FFB6C1?style=for-the-badge&logo=html5&logoColor=FF4500)
 ![CSS](https://img.shields.io/badge/CSS_like-FFB6C1?style=for-the-badge&logo=css&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL_like-FFB6C1?style=for-the-badge&logo=mysql&logoColor=00FFFF)
+![BASH](https://img.shields.io/badge/Bash_like-FFB6C1?style=for-the-badge&logo=gnubash&logoColor=black)
 
 [![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0mestos0&show_icons=true&theme=synthwave)](https://github.com/d0mestos0/github-readme-stats)
 
